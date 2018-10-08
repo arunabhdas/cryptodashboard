@@ -13,4 +13,8 @@ v10.9.0
 
 ## Steps
 
-==> create-react-app cryptodashboard
+==> yarn create react-app cryptodashboard
+
+==> yarn
+
+==> yarn start
