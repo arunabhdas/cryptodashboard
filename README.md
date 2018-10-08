@@ -1,5 +1,7 @@
 # cryptodashboard
 
+Dashboard marketplace and wallet for crypto
+
 ==> node -v
 v10.9.0
 
